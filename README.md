@@ -4,10 +4,17 @@ Natural language processing (NLP) is a branch of artificial intelligence (AI) th
 Some techniques used in NLP include:
 
 Tokenization
+
 Stemming and Lemmatization
+
 Stop Words Removal
+
 TF-IDF
+
 Keyword Extraction
+
 Word Embeddings
+
 Sentiment Analysis
-Topic Modellin
+
+Topic Modelling
